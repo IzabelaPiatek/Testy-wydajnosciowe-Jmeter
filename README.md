@@ -1,1 +1,1 @@
-# Testy-wydajno-ciowe-Jmeter
+# Testy wydajnościowe Jmeter
