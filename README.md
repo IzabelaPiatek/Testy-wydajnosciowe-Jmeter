@@ -31,7 +31,7 @@ Aby rozpocząć pracę z tym projektem, potrzebujesz:
 - Walidacja kluczowych elementów odpowiedzi:
   - **Response Code:** Weryfikacja kodów HTTP (`200`, `401`).
   - **Response Message:** Analiza komunikatów (`OK`, `UNAUTHORIZED`).
-  - **Nagłówki:** Sprawdzenie obecności kluczowych nagłówków (np. `WWW-Authenticate`).
+  - **Nagłówki:** Sprawdzenie obecności kluczowych nagłówków.
 
 ## Funkcje projektu
 - **Testy funkcjonalne:** Automatyczne sprawdzanie, czy API działa zgodnie z oczekiwaniami w różnych scenariuszach.
