@@ -55,12 +55,12 @@ Aby rozpocząć pracę z tym projektem, potrzebujesz:
    - **Summary Report** — ogólne statystyki.
    - **Response Time Graph** — wizualizacja czasów odpowiedzi.
 
-## 📊 Analiza wyników
+## Analiza wyników
 - **Throughput (przepustowość):** Ilość żądań przetworzonych przez serwer na sekundę.
 - **Czas odpowiedzi:** Minimalny, średni i maksymalny czas odpowiedzi.
 - **Error Rate (Błędy):** Procent nieudanych żądań.
 
-## 📝 Uwagi końcowe
+## Uwagi końcowe
 - W projekcie wykorzystano API **HTTPBin** do celów testowych.
 - Wszystkie scenariusze testowe zostały stworzone w celach edukacyjnych i do nauki obsługi Apache JMeter.
 - W razie potrzeby można dostosować scenariusze do innych API, zmieniając ustawienia w JMeter (np. URL, dane autoryzacyjne).
